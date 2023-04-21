@@ -25,7 +25,7 @@ export default function About () {
 
                 </div>
             </div>
-                <div className="grid grid-cols-1 p-6 md:pb-12 md:pt-16 text-left w-auto text-justify 
+                <div className="grid grid-cols-1 p-6 md:pb-12 md:pt-28 text-left w-auto text-justify 
                     md:pr-10 text-md md:ml-auto md:mr-auto antialiased font-serif leading-8 tracking-wide">
                     <div className="">
                         <h2 className="text-center text-3xl font-bold pb-8 pt-8 md:pt-0">About Me!</h2>
